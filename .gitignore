@@ -1,0 +1,6 @@
+.history
+.vscode
+.mypy_cache
+__pycache__
+
+api_key.py
